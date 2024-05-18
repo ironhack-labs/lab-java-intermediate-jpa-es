@@ -1,0 +1,7 @@
+/Users/marcovillasmil/dev/ironhack/week8/intermediatejpa/src/main/java/com/ironhack/IntermediateJPA/model/InternalTask.java
+/Users/marcovillasmil/dev/ironhack/week8/intermediatejpa/src/main/java/com/ironhack/IntermediateJPA/IntermediateJpaApplication.java
+/Users/marcovillasmil/dev/ironhack/week8/intermediatejpa/src/main/java/com/ironhack/IntermediateJPA/repository/InternalTaskRepository.java
+/Users/marcovillasmil/dev/ironhack/week8/intermediatejpa/src/main/java/com/ironhack/IntermediateJPA/repository/TaskRepository.java
+/Users/marcovillasmil/dev/ironhack/week8/intermediatejpa/src/main/java/com/ironhack/IntermediateJPA/model/BillableTask.java
+/Users/marcovillasmil/dev/ironhack/week8/intermediatejpa/src/main/java/com/ironhack/IntermediateJPA/model/Task.java
+/Users/marcovillasmil/dev/ironhack/week8/intermediatejpa/src/main/java/com/ironhack/IntermediateJPA/repository/BillableTaskRepository.java
